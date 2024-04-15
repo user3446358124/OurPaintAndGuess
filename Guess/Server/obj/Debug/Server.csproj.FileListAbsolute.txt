@@ -9,3 +9,10 @@ F:\U盘\01 编程语言\03 C#\project\你画我猜\Guess\Server\bin\Debug\Server
 F:\U盘\01 编程语言\03 C#\project\你画我猜\Guess\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
 F:\U盘\01 编程语言\03 C#\project\你画我猜\Guess\Server\obj\Debug\Server.dll
 F:\U盘\01 编程语言\03 C#\project\你画我猜\Guess\Server\obj\Debug\Server.pdb
+D:\onedrive\OneDrive - Henan\new_code\VS\project\Guess\Server\bin\Debug\Server.dll.config
+D:\onedrive\OneDrive - Henan\new_code\VS\project\Guess\Server\bin\Debug\Server.dll
+D:\onedrive\OneDrive - Henan\new_code\VS\project\Guess\Server\bin\Debug\Server.pdb
+D:\onedrive\OneDrive - Henan\new_code\VS\project\Guess\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\onedrive\OneDrive - Henan\new_code\VS\project\Guess\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\onedrive\OneDrive - Henan\new_code\VS\project\Guess\Server\obj\Debug\Server.dll
+D:\onedrive\OneDrive - Henan\new_code\VS\project\Guess\Server\obj\Debug\Server.pdb
